@@ -1,2 +1,11 @@
+.container{
+    justify-content: center;
 
+}
+.box{
+    width: 100px;
+    height:100px;
+border-style: 1px solid;
+
+}
 /* Your CSS Code here. */
