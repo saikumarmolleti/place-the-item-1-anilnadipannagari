@@ -1,20 +1,2 @@
-*{
-    margin: 0%;
-}
-.container-fluid{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    flex-wrap:wrap;
-    row-gap: auto;
-    position: relative;
 
-}
-.box{
-    width: 100px;
-    height:100px;
-    background-color: blue;
-   /* position: absolute; */
-   align-items: center;
-}
 /* Your CSS Code here. */
